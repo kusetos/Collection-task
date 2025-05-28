@@ -1,0 +1,14 @@
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/bin/Debug/net8.0/ConsoleApp-Task
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/bin/Debug/net8.0/ConsoleApp-Task.deps.json
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/bin/Debug/net8.0/ConsoleApp-Task.runtimeconfig.json
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/bin/Debug/net8.0/ConsoleApp-Task.dll
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/bin/Debug/net8.0/ConsoleApp-Task.pdb
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/obj/Debug/net8.0/ConsoleApp-Task.GeneratedMSBuildEditorConfig.editorconfig
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/obj/Debug/net8.0/ConsoleApp-Task.AssemblyInfoInputs.cache
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/obj/Debug/net8.0/ConsoleApp-Task.AssemblyInfo.cs
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/obj/Debug/net8.0/ConsoleApp-Task.csproj.CoreCompileInputs.cache
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/obj/Debug/net8.0/ConsoleApp-Task.dll
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/obj/Debug/net8.0/refint/ConsoleApp-Task.dll
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/obj/Debug/net8.0/ConsoleApp-Task.pdb
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/obj/Debug/net8.0/ConsoleApp-Task.genruntimeconfig.cache
+/home/kuset/repos/dev/funny/Sharp/ConsoleApp-Task/obj/Debug/net8.0/ref/ConsoleApp-Task.dll
